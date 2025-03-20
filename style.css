@@ -22,6 +22,15 @@ header{
 #house{
     scroll-behavior: smooth;
 }
+#Contact{
+    scroll-behavior: smooth;
+}
+#gallery{
+    scroll-behavior: smooth;
+}
+#Tertimonials{
+    scroll-behavior: smooth;
+}
 .navlogo{
     margin-top: 35px;
     justify-content: space-between;
